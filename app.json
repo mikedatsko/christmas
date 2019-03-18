@@ -1,0 +1,9 @@
+{
+  "name": "christmaswishes",
+  "displayName": "Christmas Wishes",
+  "splash": {
+    "image": "./src/assets/images/ios/launch@6s-7-8.png",
+    "backgroundColor": "#B10208",
+    "resizeMode": "cover"
+  }
+}
